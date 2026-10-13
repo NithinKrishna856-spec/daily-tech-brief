@@ -1,0 +1,44 @@
+name: Daily Tech & AI Brief
+
+on:
+  schedule:
+    # 16:07 UTC = 9:07 AM Pacific (daylight time), 8:07 AM in winter.
+    - cron: "7 16 * * *"
+  workflow_dispatch: # run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate today's brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python scripts/daily_brief.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "NithinKrishna856-spec"
+          git config user.email "180567068+NithinKrishna856-spec@users.noreply.github.com"
+          git add briefs LATEST.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "brief: $(TZ=America/Los_Angeles date '+%Y-%m-%d')"
+            git push
+          fi

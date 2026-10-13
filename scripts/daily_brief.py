@@ -35,7 +35,7 @@ FEEDS = {
     "Google AI Blog": "https://blog.google/technology/ai/rss/",
 }
 
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3.8-flash"
 
 PROMPT = """You are writing a short daily tech and AI brief for a new-grad \
 software engineer who works with robotics and machine learning data and wants \

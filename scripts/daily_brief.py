@@ -58,6 +58,7 @@ Rules:
 - Use only the information provided below. Do not invent numbers, names, or details.
 - Write summaries in your own words. Do not copy sentences from the descriptions.
 - Keep the URL exactly as given.
+- For (Source), use exactly the source name shown in parentheses for that story.
 
 End with:
 ## Worth knowing

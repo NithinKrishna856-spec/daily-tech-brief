@@ -1,35 +1,31 @@
-# Tech & AI Brief: Wednesday, October 14, 2026
+# Tech & AI Brief: Thursday, October 15, 2026
 
 _AI summary unavailable today. Here are the latest headlines._
 
 ## Hacker News
-- [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
-- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
-- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 
 ## TechCrunch AI
-- [Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/)
-- [Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/)
-- [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/)
-- [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/)
-- [TechCrunch Disrupt 2026: Day 2](https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/)
-- [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
-- [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
-- [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+- [AI agents are coming to Rivian’s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/)
+- [Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)
+- [TechCrunch Disrupt 2026: Last day](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/)
+- [Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
+- [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
+- [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
+- [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
+- [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
 
 ## The Verge AI
-- [Epic&#8217;s new games launcher is ‘vibe coded’](https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux)
-- [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
-- [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
-- [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
-- [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
-- [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
-- [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
-- [It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce)
-
-## Google AI Blog
-- [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/)
+- [Friends don&#8217;t let friends feed their data to AI agents](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent)
+- [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)
+- [Nobody is safe from celebrity AI deepfakes](https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth)
+- [Benn Jordan on Flock, privacy, and the new surveillance backlash](https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy)
+- [Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays](https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch)
+- [Amazon’s always-listening Bee wearable can now help you buy stuff](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs)
+- [Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)
+- [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)

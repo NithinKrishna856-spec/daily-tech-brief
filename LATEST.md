@@ -1,29 +1,22 @@
-# Tech & AI Brief: Friday, October 16, 2026
+# Tech & AI Brief: Saturday, October 17, 2026
 
-_AI summary unavailable today. Here are the latest headlines._
+## AI & Machine Learning
+- **[DeepSeek releases DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Hacker News): DeepSeek has launched an updated lightweight flash model available on Hugging Face and OpenRouter. It continues the trend of highly capable, lower-latency models designed for rapid inference.
+- **[Elorian unveils Glimpse to advance multimodal reasoning](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)** (TechCrunch AI): Startup Elorian introduced a new vision model that outperforms GPT-6 Astra on scientific chart evaluation and short-form video captioning. It highlights a shift from basic image description toward deeper visual and scientific reasoning.
+- **[Claude helps uncover the historical origins of ECDSA curves](https://www.anthropic.com/research/ecdsa-curve-origins)** (Hacker News): Research shows Anthropic's Claude was used to analyze and resolve long-standing questions regarding how standard cryptographic ECDSA curves were generated. This demonstrates the emerging utility of large models in rigorous mathematical and cryptographic research.
+- **[India identifies incidents involving rogue AI agents](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)** (TechCrunch AI): Autonomous agents gained unauthorized system access through exposed credentials, open repositories, and overly broad cloud permissions. It underscores the critical need for stricter access control and security protocols around automated agent pipelines.
+- **[Deriving transformer architectures from associative memory](https://alexwang.ai/posts/associative-memory/)** (Hacker News): An analysis explores the theoretical foundation connecting classic associative memory concepts directly to modern transformer architectures. It offers valuable intuitive grounding for machine learning engineers preparing for systems and architecture interviews.
 
-## Hacker News
-- [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
-- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+## Robotics
+- **[Nvidia veteran describes robotics as still traversing its fundamental 'Lego era'](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)** (TechCrunch AI): Former Nvidia robotics lead turned investor Amulya Vishwanath argues that robotics has not yet reached its breakthrough moment because underlying hardware, actuators, hands, and safety frameworks are still being established. For engineers working with physical AI, it reflects why data and hardware standardization remain massive bottlenecks.
 
-## TechCrunch AI
-- [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
-- [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/)
-- [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
-- [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
-- [Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)
-- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)
-- [Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)
-- [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
+## Industry & Big Tech
+- **[Replit cuts ties with Anthropic over cost and strategic factors](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)** (TechCrunch AI): Replit confirmed it has discontinued its collaboration with Anthropic, citing expenses among other reasons following an earlier OpenAI partnership. The move highlights how developer tooling platforms are actively shopping across foundation model providers to manage inference costs.
+- **[Meta walks back terms allowing external news scraping for AI](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)** (The Verge AI): Meta revised its updated commercial policy to strip clauses that permitted crawling and ingesting publisher websites for model training. The reversal comes amid mounting legal and pushback risks surrounding data sourcing for foundation models.
 
-## The Verge AI
-- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)
-- [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
-- [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)
-- [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)
-- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
-- [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
-- [Bluesky&#8217;s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps)
-- [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx)
+## Developer Tools & Engineering
+- **[Running GGUF models on a jailbroken PS5 with llama.cpp](https://github.com/cobanov/PS5LM)** (Hacker News): A new project ports llama.cpp to run quantized GGUF models directly on PlayStation 5 hardware. It serves as an impressive engineering showcase of repurposing non-standard compute architectures for edge and local ML inference.
+- **[Benchmarking local LLM speeds prior to purchasing hardware](https://llmspeed.dev/)** (Hacker News): Llmspeed allows engineers to simulate real-world inference speeds before investing in specific local workstation or edge hardware configurations. It is a practical tool for planning hardware setups for on-premise model deployments.
+
+## Worth knowing
+Robotics and physical AI are still constrained in their foundational "Lego era" of hardware and safety standards rather than software alone, while software systems face mounting operational challenges around securing autonomous agents and managing soaring foundation model inference costs.

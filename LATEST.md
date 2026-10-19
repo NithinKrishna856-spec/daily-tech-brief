@@ -1,20 +1,28 @@
-# Tech & AI Brief: Sunday, October 18, 2026
+# Tech & AI Brief: Monday, October 19, 2026
 
-## AI & Machine Learning
+_AI summary unavailable today. Here are the latest headlines._
 
-- **[DeepSeek Introduces Search and Fetch API Pricing](https://api-docs.deepseek.com/guides/search/)** (Hacker News): DeepSeek launched an API capability offering web search and retrieval at $0.75 per 1,000 successful requests. This provides engineering teams with an affordable option for grounding models and building retrieval-augmented pipelines.
-- **[Websites Push Back Against Autonomous AI Agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)** (The Verge AI): Web publishers and platforms are actively restricting autonomous agents deployed by companies like Google, OpenAI, and Meta from browsing their sites. As the industry bets heavily on agents performing real-world tasks online, widespread blocking could disrupt agentic workflows and data collection strategies.
+## Hacker News
+- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
+- [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
+- [Linux 7.3](https://lwn.net/Articles/1101143/)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 
-## Industry & Big Tech
+## TechCrunch AI
+- [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
+- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/)
+- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
 
-- **[Replit Replaces Anthropic with OpenAI as Default Model](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)** (TechCrunch AI): Replit announced that OpenAI will now serve as its primary default model provider, although Claude remains available to users. The switch illustrates the intense vendor competition among frontier AI labs seeking default integration within developer platforms.
-- **[Anthropic Workforce Shifts Toward Seniority and Coordination](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)** (TechCrunch AI): Anthropic shared that its staff composition has grown less junior over the past year, with employees spending an increasing amount of time in meetings. This operational shift reflects typical organizational scaling patterns as frontier AI labs move from early-stage research toward enterprise-level coordination.
-- **[Meta Backtracks on Web Scraping Language in Commercial Terms](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)** (The Verge AI): Meta eliminated contentious terms that suggested it could scrape web pages and news domains for AI training after facing widespread public pushback. The revision highlights the sensitive legal and ethical boundaries surrounding pre-training data acquisition from public web sources.
+## The Verge AI
+- [JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)
+- [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+- [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
+- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
 
-## Developer Tools & Engineering
-
-- **[Sphinx Quizzes Developers on AI-Generated Code Before Deployment](https://sphinx-six-theta.vercel.app/)** (Hacker News): This open-source git hook integrates into agentic coding workflows to ensure engineers actually understand the code their AI assistants write before pushing to production. It directly targets code-review fatigue and comprehension gaps introduced by automated code generation tools.
-- **[Pele Renders Themeable SVG Visuals from Mermaid](https://pele.run/)** (Hacker News): Pele enables engineers to convert Mermaid diagram syntax into styled, themeable SVG graphics. The tool helps engineering teams maintain consistent, visual system architecture and data pipeline diagrams directly in their documentation.
-
-## Worth knowing
-The open web is mounting strong resistance against AI crawlers and autonomous agents through updated terms and access blocking, meaning data pipelines and agentic tools will face much stricter perimeter defenses. In an interview, you can frame this as a shift toward walled gardens that will force companies to rely more on official APIs and explicit data-licensing agreements rather than free web scraping.
+## MIT Technology Review
+- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)

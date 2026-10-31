@@ -1,33 +1,20 @@
-# Tech & AI Brief: Friday, October 30, 2026
+# Tech & AI Brief: Saturday, October 31, 2026
 
-_AI summary unavailable today. Here are the latest headlines._
+## AI & Machine Learning
+- **[Top AI Labs Adopt Unified Web Scraping Opt-Out Standard](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)** (The Verge AI): OpenAI, Google, Microsoft, and Anthropic have agreed to support a shared standard allowing web publishers to block AI scrapers across multiple platforms at once. For engineers handling machine learning data, this creates a more formalized cross-industry compliance framework for data ingestion and dataset curation.
+- **[Google Boots Onboard TPUs to Run Gemma 4 in Orbit](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)** (The Verge AI): Google activated satellite-mounted Tensor Processing Units to execute its Gemma 4 model in space and transmit the output back to Earth. The milestone highlights expanding possibilities for deploying edge inference workloads and specialized hardware outside traditional terrestrial data centers.
 
-## Hacker News
-- [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
-- [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
-- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-- [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
+## Robotics
+- **[Papal Address Urges Ban on Autonomous Weapon Systems](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai)** (The Verge AI): Pope Leo XIV called on United Nations members to disarm AI and establish an outright ban on lethal autonomous weapons. The address intensifies the ethical and regulatory scrutiny surrounding autonomous systems and robotics deployed in defense settings.
 
-## TechCrunch AI
-- [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
-- [Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)
-- [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)
-- [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
-- [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
-- [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
-- [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
-- [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+## Industry & Big Tech
+- **[Rising Debt and Cash Burn Strain the AI Infrastructure Boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)** (TechCrunch AI): Big Tech’s multi-billion-dollar investments into AI infrastructure are facing growing investor skepticism due to accumulating debt and negative cash flows. These mounting pressures suggest companies will need to justify their massive capital expenditures with tangible returns.
+- **[Nvidia Weighs Cosigning Data Center Debt Amid Investor Caution](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)** (TechCrunch AI): With backers hesitating over AI project costs, Nvidia is exploring cosigning a loan for an Nscale data center located in West Virginia. The maneuver illustrates the unusual financial measures chipmakers may take to keep compute construction projects moving forward.
+- **[Sam Altman Argues Critical Memory Belongs in Cloud Data Centers Over PCs](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)** (The Verge AI): OpenAI's CEO stated that amidst persistent component shortages, it is far better for RAM to sit inside centralized data centers than inside personal computers. The comments point to intensifying competition between frontier AI compute infrastructure and consumer hardware supply chains.
+- **[Anthropic Faces Projected High Junk Credit Rating Post-IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)** (TechCrunch AI): Forecasts suggest Anthropic could receive a high junk rating from credit agencies following its public listing, driven by its massive spending pace. A sub-investment grade rating would make securing debt financing significantly more expensive for the company.
 
-## The Verge AI
-- [Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai)
-- [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
-- [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
-- [Maine’s data center revolt will decide who controls the Senate](https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers)
-- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
-- [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
-- [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
-- [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
+## Developer Tools & Engineering
+- **[Security Researchers Expose Account Takeover Gap in ChatGPT](https://www.parameter.ai/labs/we-found-a-gap-at-openai)** (Hacker News): Security researchers uncovered a flaw at OpenAI that allowed unauthorized takeovers of ChatGPT accounts. As conversational AI platforms become foundational to daily developer and enterprise workflows, the incident highlights the ongoing need for rigorous identity and access controls around AI tooling.
+
+## Worth knowing
+Between investor doubt over negative cash flows, projected junk ratings for frontier labs, and severe memory shortages, the massive AI infrastructure boom is showing clear signs of financial strain. Being able to discuss how these capital and hardware bottlenecks could force companies to focus on compute efficiency over raw spending will help you stand out in technical interviews.

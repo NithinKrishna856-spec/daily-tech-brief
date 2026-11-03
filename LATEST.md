@@ -1,21 +1,37 @@
-# Tech & AI Brief: Monday, November 02, 2026
+# Tech & AI Brief: Tuesday, November 03, 2026
 
-## AI & Machine Learning
+_AI summary unavailable today. Here are the latest headlines._
 
-- **[42AI raises $62.5M to launch predictive world models of human behavior](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)** (TechCrunch AI): The startup has emerged from stealth with significant funding to build a world model aimed at anticipating human actions even in novel situations. Developing reliable behavioral world models is an essential step forward for autonomous systems and agents that must safely interact alongside people.
-- **[Software development metrics shift from token costs to shipped agent output](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)** (MIT Technology Review): Autonomous coding agents consume 10 to 50 times more tokens than standard chat interfaces because they continually plan, write, execute, and refine their code. As a result, engineering teams are starting to evaluate these systems by their ability to deliver functional software rather than merely tracking prompt efficiency.
-- **[Autonomous software agents bring the vision of an agentic web to life](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)** (MIT Technology Review): Software agents capable of autonomous web navigation are fulfilling the decades-old vision originally outlined for the machine-readable Semantic Web. This signals an ongoing shift from passive information lookup toward end-to-end task execution across the internet.
+## Hacker News
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
+- [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
-## Industry & Big Tech
+## TechCrunch AI
+- [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
+- [Apple restricts dating apps and AI companions to users 18 and up](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/)
+- [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
+- [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
+- [Apple Watch’s AI features for rewinding and recapping conversations begin beta testing](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)
+- [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
+- [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
+- [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
 
-- **[Anthropic reveals $17B in quarterly revenue and massive future commitments](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)** (Hacker News): The frontier AI lab disclosed $17 billion in third-quarter revenue alongside $895 billion in total commitments in an updated S-1 filing. These numbers reflect the staggering capital concentration and commercial appetite driving modern foundational model development.
-- **[High operating expenses prompt usage limits on Grok Bot](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)** (TechCrunch AI): Elon Musk confirmed that Grok Bot access is being throttled because the computing expenses tied to its rapid user growth have become unsustainable. The move highlights how the real-world costs of serving large-scale models remain a major bottleneck for consumer deployments.
-- **[Omen AI purchases Aquatic Labs for $16M to tackle data center cooling](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)** (TechCrunch AI): Omen AI has acquired fellow startup Aquatic Labs to address the mounting water and liquid cooling demands of AI infrastructure. As hardware clusters grow denser, physical cooling constraints and environmental resource consumption are becoming top-tier architectural priorities.
+## The Verge AI
+- [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news)
+- [Apple is all in on AI — its own and everyone else&#8217;s](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)
+- [OpenAI is quietly renaming data centers ‘compute campuses’](https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses)
+- [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
+- [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
+- [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)
 
-## Developer Tools & Engineering
+## MIT Technology Review
+- [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/)
+- [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
+- [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/)
+- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
 
-- **[Trigger.dev reports security incident exposing customer environment variables](https://trigger.dev/blog/security-incident-nov-2026)** (Hacker News): The developer platform disclosed that sensitive environment secrets stored by customers were accessed during a security breach. It reinforces why engineers must design automated workflows with strict secret scoping and prompt key-rotation practices.
-- **[Interactive Linux syscall reference expands architecture support and introduces API access](https://syscall.sh/)** (Hacker News): A refreshed version of the syscall reference site now includes kernel version selectors, expanded CPU architecture support, descriptions, and a public API. It serves as a handy utility for systems and performance engineers tracing low-level OS boundaries.
-
-## Worth knowing
-With both consumer-facing chatbots and agentic developer workflows hitting severe compute ceilings, the industry conversation is quickly moving from model capabilities to the sheer unit economics and infrastructure costs of running models in production. Highlighting the trade-off between iterative model reasoning steps and real-world execution costs is a great way to show practical systems-level awareness in an interview.
+## Google AI Blog
+- [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)

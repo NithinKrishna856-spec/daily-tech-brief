@@ -1,39 +1,22 @@
-# Tech & AI Brief: Friday, November 06, 2026
+# Tech & AI Brief: Saturday, November 07, 2026
 
-_AI summary unavailable today. Here are the latest headlines._
+## AI & Machine Learning
 
-## Hacker News
-- [RIP Cybertruck](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)
-- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
-- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
-- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
-- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/)
-- [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
-- [Pwn.college](https://pwn.college/)
+- **[Anthropic accelerates AI progress by automating its own development](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)** (The Verge AI): A new research report reveals Anthropic is using existing models to help build next-generation systems, doubling its pace of improvement compared to last year. For engineers, this confirms that recursive model training is becoming an effective reality rather than just a theoretical concept.
+- **[Routing to Opus on demand matches top-tier accuracy at a fraction of the cost](https://hightouch.com/blog/llm-judges-identity-resolution)** (Hacker News): An implementation showed that having a smaller model escalate challenging queries to Claude Opus achieved parity with full-scale Opus evaluations while slashing expenses by 75%. This tiered architecture offers a blueprint for building cost-effective LLM pipelines and automated data-labeling judges in production.
+- **[Macs contain an undocumented family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)** (Hacker News): Researchers uncovered a hidden classification component inside macOS designed to organize familial relationships for Apple Intelligence's personal knowledge graph. It offers a rare look at the data structures and on-device machine learning pipelines powering personal context engines.
 
-## TechCrunch AI
-- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)
-- [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
-- [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)
-- [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
-- [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
-- [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)
-- [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)
+## Industry & Big Tech
 
-## The Verge AI
-- [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
-- [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
-- [Amazon will let you text Alexa your shopping list](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders)
-- [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)
-- [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
-- [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
-- [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
-- [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)
+- **[OpenAI reaches $1.25 trillion valuation following an $11 billion fundraise](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)** (The Verge AI): OpenAI secured another $11 billion in new capital, boosting its valuation to $1.25 trillion as rival Anthropic edges toward an IPO. The massive cash injection reflects the extraordinary scale of capital required to stay competitive at the AI frontier.
+- **[Corporate AI spending hits a plateau despite surging usage](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)** (TechCrunch AI): Payment provider Ramp found that enterprise AI expenditures have flattened because of model price reductions and stricter client budget management, even as workload volume grows. This signals that enterprise engineering teams are prioritizing cost optimization over unconstrained API consumption.
+- **[Export controls face scrutiny after Nvidia chips clear for an empty Chinese office](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)** (The Verge AI): The US Commerce Department approved the sale of advanced Nvidia H200 hardware to a company that turned out to be an unoccupied shell office. The revelation exposes enforcement blind spots in the regulatory barriers surrounding high-performance AI silicon.
+- **[Voters push back against data center development across the country](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/)** (TechCrunch AI): In recent midterm elections, 40 out of 41 local ballot initiatives approved measures to limit and regulate data center expansion. These public pushbacks highlight how physical power and real estate constraints are emerging as significant bottlenecks for AI scaling.
 
-## MIT Technology Review
-- [I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)
+## Developer Tools & Engineering
 
-## Google AI Blog
-- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+- **[Security researchers demonstrate a virtual machine escape in Firecracker](https://pwn.ai/blog/firecracker-escape)** (Hacker News): A detailed technical exploit broke isolation boundaries within AWS's Firecracker microVM hypervisor to gain host-level control. It serves as a reminder of the security risks involved when designing multi-tenant serverless environments and sandbox execution engines for untrusted code.
+- **[Mitchell Hashimoto ships Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)** (Hacker News): The standalone library behind the Ghostty terminal has reached a stable 1.0 release. It provides a modular, high-performance foundation for engineers seeking to integrate terminal emulation into their own systems and desktop applications.
+
+## Worth knowing
+Even as frontier labs raise trillions and use recursive AI to double the speed of model development, infrastructure is facing a double crunch: local voters are aggressively blocking new data centers, while enterprise spending is plateauing as teams shift from experimentation to aggressive cost optimization.

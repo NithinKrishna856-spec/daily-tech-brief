@@ -1,22 +1,22 @@
-# Tech & AI Brief: Saturday, November 07, 2026
+# Tech & AI Brief: Sunday, November 08, 2026
 
-## AI & Machine Learning
+_AI summary unavailable today. Here are the latest headlines._
 
-- **[Anthropic accelerates AI progress by automating its own development](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)** (The Verge AI): A new research report reveals Anthropic is using existing models to help build next-generation systems, doubling its pace of improvement compared to last year. For engineers, this confirms that recursive model training is becoming an effective reality rather than just a theoretical concept.
-- **[Routing to Opus on demand matches top-tier accuracy at a fraction of the cost](https://hightouch.com/blog/llm-judges-identity-resolution)** (Hacker News): An implementation showed that having a smaller model escalate challenging queries to Claude Opus achieved parity with full-scale Opus evaluations while slashing expenses by 75%. This tiered architecture offers a blueprint for building cost-effective LLM pipelines and automated data-labeling judges in production.
-- **[Macs contain an undocumented family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)** (Hacker News): Researchers uncovered a hidden classification component inside macOS designed to organize familial relationships for Apple Intelligence's personal knowledge graph. It offers a rare look at the data structures and on-device machine learning pipelines powering personal context engines.
+## Hacker News
+- [Person of Interest](https://krthr.co/person-of-interest/)
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
 
-## Industry & Big Tech
+## TechCrunch AI
+- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
 
-- **[OpenAI reaches $1.25 trillion valuation following an $11 billion fundraise](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)** (The Verge AI): OpenAI secured another $11 billion in new capital, boosting its valuation to $1.25 trillion as rival Anthropic edges toward an IPO. The massive cash injection reflects the extraordinary scale of capital required to stay competitive at the AI frontier.
-- **[Corporate AI spending hits a plateau despite surging usage](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)** (TechCrunch AI): Payment provider Ramp found that enterprise AI expenditures have flattened because of model price reductions and stricter client budget management, even as workload volume grows. This signals that enterprise engineering teams are prioritizing cost optimization over unconstrained API consumption.
-- **[Export controls face scrutiny after Nvidia chips clear for an empty Chinese office](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)** (The Verge AI): The US Commerce Department approved the sale of advanced Nvidia H200 hardware to a company that turned out to be an unoccupied shell office. The revelation exposes enforcement blind spots in the regulatory barriers surrounding high-performance AI silicon.
-- **[Voters push back against data center development across the country](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/)** (TechCrunch AI): In recent midterm elections, 40 out of 41 local ballot initiatives approved measures to limit and regulate data center expansion. These public pushbacks highlight how physical power and real estate constraints are emerging as significant bottlenecks for AI scaling.
-
-## Developer Tools & Engineering
-
-- **[Security researchers demonstrate a virtual machine escape in Firecracker](https://pwn.ai/blog/firecracker-escape)** (Hacker News): A detailed technical exploit broke isolation boundaries within AWS's Firecracker microVM hypervisor to gain host-level control. It serves as a reminder of the security risks involved when designing multi-tenant serverless environments and sandbox execution engines for untrusted code.
-- **[Mitchell Hashimoto ships Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)** (Hacker News): The standalone library behind the Ghostty terminal has reached a stable 1.0 release. It provides a modular, high-performance foundation for engineers seeking to integrate terminal emulation into their own systems and desktop applications.
-
-## Worth knowing
-Even as frontier labs raise trillions and use recursive AI to double the speed of model development, infrastructure is facing a double crunch: local voters are aggressively blocking new data centers, while enterprise spending is plateauing as teams shift from experimentation to aggressive cost optimization.
+## The Verge AI
+- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review)
+- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)
+- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)
+- [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)

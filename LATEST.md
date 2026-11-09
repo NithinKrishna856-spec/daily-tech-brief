@@ -1,22 +1,22 @@
-# Tech & AI Brief: Sunday, November 08, 2026
+# Tech & AI Brief: Monday, November 09, 2026
 
-_AI summary unavailable today. Here are the latest headlines._
+## AI & Machine Learning
 
-## Hacker News
-- [Person of Interest](https://krthr.co/person-of-interest/)
-- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
-- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
+- **[Next-concept modeling proposes parallel coarse-to-fine text generation](https://arxiv.org/abs/2610.14162)** (Hacker News): Researchers introduced an alternative architecture that generates concepts in parallel from high-level abstractions down to fine details. This approach provides a promising research direction for bypassing the latency bottlenecks inherent in traditional autoregressive token sampling.
+- **[Apple accelerates development to turn Siri into an autonomous AI agent](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)** (The Verge AI): Leadership is pushing its engineering teams to hasten the delivery of an agent-driven Siri capable of competing with next-generation offerings from OpenAI and Meta. The effort highlights how industry focus is migrating from reactive chatbots toward proactive personal assistants that take real-world actions.
+- **[Disney and Adobe team up on studio-grade generative tools](https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership)** (The Verge AI): The multiyear collaboration focuses on building proprietary, artist-focused generative models tailored to Disney's commercial production pipeline. The deal demonstrates enterprise media's preference for tightly controlled, workflow-integrated generative systems over off-the-shelf consumer platforms.
+- **[Music publishers sue Suno over unauthorized style mimicry](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)** (The Verge AI): Rights holders representing Eminem and Elvis Presley filed lawsuits alleging that the platform replicates copyrighted artist catalogs and vocal styles without permission. The case spotlights ongoing legal and training-data compliance challenges that machine learning teams face when modeling distinctive creative outputs.
 
-## TechCrunch AI
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
+## Industry & Big Tech
 
-## The Verge AI
-- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review)
-- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)
-- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)
-- [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
+- **[Nvidia board opens internal investigation into CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)** (The Verge AI): Company leadership has initiated an inquiry into Huang following his relationship with an executive reported to be working on behalf of China's Ministry of State Security. Any executive instability at Nvidia poses major geopolitical and operational questions for the entire AI hardware ecosystem.
+- **[Anthropic secures $3.4 billion in natural gas turbines for compute power](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)** (TechCrunch AI): The AI developer acquired dedicated energy generation hardware to meet the astronomical electricity demands of training future frontier models. The massive purchase illustrates how securing physical utility infrastructure has become as decisive to scaling AI clusters as sourcing chips.
+
+## Developer Tools & Engineering
+
+- **[ChatGPT Desktop credential forwarding highlights local security vulnerabilities](https://news.ycombinator.com/item?id=50422628)** (Hacker News): Developers revealed that the desktop client forwards active SSH agents to remote execution environments, which could allow remote processes to access sensitive private repositories. It serves as a reminder to implement strict permission boundaries and sandboxing when integrating autonomous coding agents into local developer environments.
+- **[Automattic unveils Spacefast hosting platform for AI-built apps](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)** (TechCrunch AI): The new deployment service aims to streamline hosting and distribution for web apps assembled using natural-language "vibe-coding" workflows. The launch reflects how web infrastructure providers are evolving to serve applications generated rapidly by non-traditional software pipelines.
+- **[Critical API flaw exposed remote vehicle entry across global fleet](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)** (Hacker News): A vulnerability report detailed how unsecured endpoints allowed global remote unlocking access for an automotive brand's connected vehicles. For engineers working with robotics and IoT telematics, the flaw underscores the direct physical safety risks caused by missing API authentication controls.
+
+## Worth knowing
+The core AI scaling constraint is expanding from model architecture to physical infrastructure and corporate governance, highlighted by Anthropic spending billions on power generation while Nvidia navigates unexpected board scrutiny. In an interview, frame this as the moment AI engineering became as dependent on energy capacity and supply-chain stability as it is on compute algorithms.

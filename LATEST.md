@@ -1,22 +1,42 @@
-# Tech & AI Brief: Monday, November 09, 2026
+# Tech & AI Brief: Tuesday, November 10, 2026
 
-## AI & Machine Learning
+_AI summary unavailable today. Here are the latest headlines._
 
-- **[Next-concept modeling proposes parallel coarse-to-fine text generation](https://arxiv.org/abs/2610.14162)** (Hacker News): Researchers introduced an alternative architecture that generates concepts in parallel from high-level abstractions down to fine details. This approach provides a promising research direction for bypassing the latency bottlenecks inherent in traditional autoregressive token sampling.
-- **[Apple accelerates development to turn Siri into an autonomous AI agent](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)** (The Verge AI): Leadership is pushing its engineering teams to hasten the delivery of an agent-driven Siri capable of competing with next-generation offerings from OpenAI and Meta. The effort highlights how industry focus is migrating from reactive chatbots toward proactive personal assistants that take real-world actions.
-- **[Disney and Adobe team up on studio-grade generative tools](https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership)** (The Verge AI): The multiyear collaboration focuses on building proprietary, artist-focused generative models tailored to Disney's commercial production pipeline. The deal demonstrates enterprise media's preference for tightly controlled, workflow-integrated generative systems over off-the-shelf consumer platforms.
-- **[Music publishers sue Suno over unauthorized style mimicry](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)** (The Verge AI): Rights holders representing Eminem and Elvis Presley filed lawsuits alleging that the platform replicates copyrighted artist catalogs and vocal styles without permission. The case spotlights ongoing legal and training-data compliance challenges that machine learning teams face when modeling distinctive creative outputs.
+## Hacker News
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Your TV can see through walls (2025)](https://maurycyz.com/projects/fading/)
+- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 
-## Industry & Big Tech
+## TechCrunch AI
+- [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/)
+- [Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/)
+- [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/)
+- [Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)
+- [Spotify’s AI DJ gets new voices, personalities, and an option for less chatter](https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/)
+- [After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era](https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/)
+- [Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/)
+- [Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/)
 
-- **[Nvidia board opens internal investigation into CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)** (The Verge AI): Company leadership has initiated an inquiry into Huang following his relationship with an executive reported to be working on behalf of China's Ministry of State Security. Any executive instability at Nvidia poses major geopolitical and operational questions for the entire AI hardware ecosystem.
-- **[Anthropic secures $3.4 billion in natural gas turbines for compute power](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)** (TechCrunch AI): The AI developer acquired dedicated energy generation hardware to meet the astronomical electricity demands of training future frontier models. The massive purchase illustrates how securing physical utility infrastructure has become as decisive to scaling AI clusters as sourcing chips.
+## The Verge AI
+- [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping)
+- [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)
+- [Anthropic targets $1.4 trillion IPO](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion)
+- [Adobe is going all in on agentic AI](https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates)
+- [Photoshop, Lightroom, and Premiere are making it easier to remove things](https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates)
+- [Hands-on with Ring’s new AI drone camera for your home](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot)
+- [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
+- [What could China get from Jensen Huang?](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang)
 
-## Developer Tools & Engineering
+## MIT Technology Review
+- [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
+- [Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)
+- [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)
 
-- **[ChatGPT Desktop credential forwarding highlights local security vulnerabilities](https://news.ycombinator.com/item?id=50422628)** (Hacker News): Developers revealed that the desktop client forwards active SSH agents to remote execution environments, which could allow remote processes to access sensitive private repositories. It serves as a reminder to implement strict permission boundaries and sandboxing when integrating autonomous coding agents into local developer environments.
-- **[Automattic unveils Spacefast hosting platform for AI-built apps](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)** (TechCrunch AI): The new deployment service aims to streamline hosting and distribution for web apps assembled using natural-language "vibe-coding" workflows. The launch reflects how web infrastructure providers are evolving to serve applications generated rapidly by non-traditional software pipelines.
-- **[Critical API flaw exposed remote vehicle entry across global fleet](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)** (Hacker News): A vulnerability report detailed how unsecured endpoints allowed global remote unlocking access for an automotive brand's connected vehicles. For engineers working with robotics and IoT telematics, the flaw underscores the direct physical safety risks caused by missing API authentication controls.
-
-## Worth knowing
-The core AI scaling constraint is expanding from model architecture to physical infrastructure and corporate governance, highlighted by Anthropic spending billions on power generation while Nvidia navigates unexpected board scrutiny. In an interview, frame this as the moment AI engineering became as dependent on energy capacity and supply-chain stability as it is on compute algorithms.
+## Google AI Blog
+- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/)
+- [Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)

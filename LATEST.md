@@ -1,32 +1,25 @@
-# Tech & AI Brief: Saturday, November 21, 2026
+# Tech & AI Brief: Sunday, November 22, 2026
 
 _AI summary unavailable today. Here are the latest headlines._
 
 ## Hacker News
-- [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-- [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-- [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-- [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
-- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
-- [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- [Sandwich Simulator](https://stulle.app/)
+- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
+- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
 ## TechCrunch AI
+- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+- [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
 - [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
-- [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
-- [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
-- [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
-- [The fallout from Nvidia’s Jensen Huang scandal continues](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/)
-- [Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
 
 ## The Verge AI
+- [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
+- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
 - [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
 - [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
-- [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
-- [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)
-- [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)
-- [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app)
-
-## MIT Technology Review
-- [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
